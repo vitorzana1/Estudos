@@ -1,2 +1,8 @@
-# estudos-python
-Aqui colocarei todos os cursos que faço online, entre eles, projetos, certificados, etc
+# Estudos Python	
+Seguimos aqui com os cursos de Python
+
+- Projetos
+- Cursos
+- Certificados
+
+Tudo que for relacionado à linguagem Python, estará aqui.
